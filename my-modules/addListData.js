@@ -14,3 +14,4 @@ export const addListData = async (e, addDoc, collection, db) => {
       console.error("Error adding document: ", e)
     }
   }
+  
